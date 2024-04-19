@@ -1,0 +1,8 @@
+{
+  "name": "ar-dev",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/courecta/ar-dev",
+  "author": "courecta",
+  "license": "MIT"
+}
